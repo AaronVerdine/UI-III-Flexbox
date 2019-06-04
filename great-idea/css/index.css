@@ -77,7 +77,10 @@ header {
 }
 
  header nav {
-	display: inline-block;
+	display: inline-flex;
+	/* display: flex;
+    flex-flow: row wrap;
+    align-items: center; */
 
 }
 
